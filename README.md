@@ -13,3 +13,4 @@ Other resources:
 - Guide by the UN Department of Economic and Social Affairs Sustainable Development, including summaries of AI strategies by a sample of governments, international organizations and civil society https://sdgs.un.org/documents/resource-guide-artificial-intelligence-ai-strategies-25128
 - Interactive visualizations of key trends in computing power of ML models https://epochai.org/trends
 - An open source tool for data-intensive analysis of texts https://voyant-tools.org/
+- A blog documenting Sweden's experience of a virtual embassy in Second Life from 2007 to 2012 https://secondhouseofsweden.wordpress.com/page/2/
